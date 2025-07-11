@@ -1,0 +1,11 @@
+{
+  "name": "supabase-keepalive",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.3"
+  },
+  "scripts": {
+    "ping": "node ping_supabase.js"
+  }
+}
