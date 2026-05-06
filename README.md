@@ -1,5 +1,5 @@
 # Supabase Keep-Alive -1
-
+2
 This GitHub Action keeps your Supabase project from becoming inactive by pinging it every 12 hours using the official Supabase JavaScript SDK..
 
 ## 🔧 Setup
